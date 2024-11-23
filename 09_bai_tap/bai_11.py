@@ -6,3 +6,5 @@ for i in range(1, a+1):
         ucln = i
 bcnn = a * b / ucln
 print(f"boi chung nho nhat la ; {bcnn}")
+if bcnn % 7 == 0:
+    print("boi chung nho nhat cua cua2 so nay co chia het cho 7")

@@ -7,4 +7,4 @@ for i in range(1, a+1):
 print(ucln)
 tu = a / ucln
 mau = b / ucln
-print(f"phan so toi gian la : {tu}/{mau}")
+print(f"phan so toi gian la : ({tu},{mau})")
